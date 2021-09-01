@@ -21,7 +21,7 @@
         $mail->Host = "smtp.gmail.com";
         $mail->Port = 587;
         $mail->Username = "maciekgrzela45@gmail.com";
-        $mail->Password = "";
+        $mail->Password = "<auth></auth>";
 
 
         $mail->From = 'maciekgrzela@outlook.com';
